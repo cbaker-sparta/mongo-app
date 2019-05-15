@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/tech-a24/Documents/engineering-29/8-week/mongo-homework/mongo-app/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a24/Documents/engineering-29/8-week/mongo-homework/mongo-app","disabled":false,"__vagrantfile":true}}}
